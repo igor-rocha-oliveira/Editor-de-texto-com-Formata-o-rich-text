@@ -1,0 +1,1 @@
+# Editor-de-texto-com-Formata-o-rich-text
